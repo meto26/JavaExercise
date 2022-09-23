@@ -1,0 +1,13 @@
+package oop1;
+
+public class Product {
+		String name;
+		Double unitPrice;
+		Double disount;
+		String imageUrl;
+		int unitsInStock;
+		
+		
+
+	}
+

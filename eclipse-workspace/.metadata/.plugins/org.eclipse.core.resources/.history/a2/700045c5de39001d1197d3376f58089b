@@ -1,0 +1,18 @@
+package oop1;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Product product1= new Product();		
+		String mesaj ="Vade oranı";
+		
+		product1.name="Delongi kahve makinesi";
+		product1.unitPrice = 7500;
+		product1.unitsInStock=3;
+		product1.imageUrl="deneme.jpg";
+		
+		
+		System.out.println(Product.name);
+	}
+
+}

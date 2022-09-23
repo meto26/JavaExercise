@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="TarimKrediManager"/>
+    <fullyQualifiedTypeName name="abstractClasses.WomenGameCalculator"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="abstractClasses.WomanGameCalculator"/>
+    <fullyQualifiedTypeName name="abstractClasses.BaseGameCalculator"/>
+    <fullyQualifiedTypeName name="abstractDemo.CustomerManager"/>
+    <fullyQualifiedTypeName name="abstractDemo.OracleDatabaseManager"/>
+    <fullyQualifiedTypeName name="abstractDemo.SqlDatabaseManager"/>
+    <fullyQualifiedTypeName name="abstractDemo.BaseDatabaseManager"/>
+    <fullyQualifiedTypeName name="IRepository"/>
+    <fullyQualifiedTypeName name="javax.management.DescriptorAccess"/>
+    <fullyQualifiedTypeName name="CustomerManager"/>
+    <fullyQualifiedTypeName name="ICustomerDal"/>
+    <fullyQualifiedTypeName name="OracleCustomerDal"/>
+    <fullyQualifiedTypeName name="IEatable"/>
+    <fullyQualifiedTypeName name="IPayable"/>
+    <fullyQualifiedTypeName name="IWorkable"/>
+    <fullyQualifiedTypeName name="staticDemo.ProductManager"/>
+    <fullyQualifiedTypeName name="staticDemo.Product"/>
+    <fullyQualifiedTypeName name="staticDemo.ProductValidator"/>
+    <fullyQualifiedTypeName name="staticDemo.DatabaseHelper"/>
+    <fullyQualifiedTypeName name="staticDemo.DatabaseHelper.Crud"/>
+    <fullyQualifiedTypeName name="staticDemo.DatabaseHelper.Connection"/>
+</qualifiedTypeNameHistroy>

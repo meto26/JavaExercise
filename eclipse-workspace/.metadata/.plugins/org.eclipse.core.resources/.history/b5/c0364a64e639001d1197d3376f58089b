@@ -1,0 +1,27 @@
+package oop1;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Product product1= new Product();
+		product1.setName("Dlongi kahve makinesi");
+		product1.setDiscount(7);
+		product1.setUnitPrice(7500);
+		product1.setUnitsInStock(3);
+		product1.setImageUrl("deneme.jpg");
+		Product product2= new Product();
+		
+		Product product3= new Product();
+		
+		String mesaj ="Vade oranı";
+		
+		
+		Product[] products = {product1,product2,product3};
+		
+		for (Product product : products) {
+			
+		}
+	}
+
+}

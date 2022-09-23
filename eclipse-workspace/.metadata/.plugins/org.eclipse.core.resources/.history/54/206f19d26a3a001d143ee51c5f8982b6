@@ -1,0 +1,22 @@
+package methods2;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+	}
+
+	public static void Add() {
+		System.out.println("Eklendi...");
+
+	}
+
+	public static void Delete() {
+		System.out.println("Silindi...");
+	}
+
+	public static void Update() {
+		System.out.println("Güncellendi...");
+	}
+
+}

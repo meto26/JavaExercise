@@ -1,0 +1,6 @@
+
+public class CustomerManeger {
+	public void List() {
+		System.out.println("Müsteri Listelendi...");
+	}
+}
